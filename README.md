@@ -1,6 +1,6 @@
 # Big_Data_Analysis_Project_Nscarfe
-Uni of Adelaide : 4536 COMP SCI 7209 : Assignment 1
-Written and used by Nicholas Scarfe for Assignment 1 parts A->D
+## Uni of Adelaide : 4536 COMP SCI 7209 : Assignment 1
+### Written and used by Nicholas Scarfe for Assignment 1 parts A->D
 
 Use DataDownloading to download streetview images, process them, and save them as pickle files in google drive.
 
